@@ -1,2 +1,6 @@
 # TurnRacer-LD41
-Ludum Dare 41 - Turn based racing game Unreal Engine 4 project
+Turn Racer is a project i made for Ludum Dare 41 in April 2018. 
+
+Ludum Dare entry: https://ldjam.com/events/ludum-dare/41/turnracer
+Itch.io https://rootkiller.itch.io/turnracer
+
